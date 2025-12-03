@@ -1,0 +1,5 @@
+{
+  "name": "CodeDiff AI",
+  "description": "A smart code comparison tool that visualizes differences between two code blocks and uses Gemini AI to explain the logic behind the changes.",
+  "requestFramePermissions": []
+}
